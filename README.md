@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Tushar 👋<br><br><br>### 🚀 Tech Interests<br>- 💻 Software Engineering<br>- 🧩 Programming & Problem Solving<br>- 🌐 Open Source<br>- 📚 Computer Science Fundamentals<br><br>### 🎯 Current Focus<br>- 🔹 Strengthening programming skills<br>- 🔹 Building real-world projects<br>- 🔹 Exploring modern software development practices<br><br>### 🛠️ Projects<br>- 🏦 Banking System in C<br>- 🧮 Calculator in C++<br><br>
+👋 Hi, I'm Tushar<br><br>>>> 🚀 Tech Interests<br>💻 Software Engineering  <br>🧩 Programming & Problem Solving  <br>🌐 Open Source  <br>📚 Computer Science Fundamentals  <br><br>>>> 🎯 Current Focus<br>🚀 Strengthening Programming Skills  <br>🛠️ Building Real-World Projects  <br>⚡ Exploring Modern Development Practices  <br><br>>>> 🛠️ Projects<br>🏦 Banking System in C  <br>🧮 Calculator in C++  
 
 
 # 💻 Tech Stack:
@@ -9,10 +9,7 @@
 ![](https://streak-stats.demolab.com/?user=tusharbeshra17-glitch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tusharbeshra17-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tusharbeshra17-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=tusharbeshra17-glitch&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=tusharbeshra17-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
