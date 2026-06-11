@@ -17,6 +17,7 @@ Passionate about technology, programming, and problem solving. Currently buildin
 
 ### 🛠️ Projects
 - 🏦 Banking System in C
+- 🧮 Calculator in C++
 
 ### 📈 Learning Journey
 - ⚡ C Programming
