@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tushar 👋
 
-<!--
-**tusharbeshra17-glitch/tusharbeshra17-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Enthusiast
 
-Here are some ideas to get you started:
+Passionate about technology, programming, and problem solving. Currently building a strong foundation in C, C++, and Python while developing practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Interests
+- 💻 Software Engineering
+- 🧩 Programming & Problem Solving
+- 🌐 Open Source
+- 📚 Computer Science Fundamentals
+
+### 🎯 Current Focus
+- 🔹 Strengthening programming skills
+- 🔹 Building real-world projects
+- 🔹 Exploring modern software development practices
+
+### 🛠️ Projects
+- 🏦 Banking System in C
+
+### 📈 Learning Journey
+- ⚡ C Programming
+- ⚡ C++
+- ⚡ Python
+- ⚡ Git & GitHub
+
+### 🌟 Motto
+> Learn 📖 • Build 🛠️ • Improve 📈 • Repeat 🔁
