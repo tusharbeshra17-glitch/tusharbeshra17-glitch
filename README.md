@@ -1,8 +1,44 @@
-# 💫 About Me:
-👋 Hi, I'm Tushar<br><br>>>> 🚀 Tech Interests<br>💻 Software Engineering  <br>🧩 Programming & Problem Solving  <br>🌐 Open Source  <br>📚 Computer Science Fundamentals  <br><br>>>> 🎯 Current Focus<br>🚀 Strengthening Programming Skills  <br>🛠️ Building Real-World Projects  <br>⚡ Exploring Modern Development Practices  <br><br>>>> 🛠️ Projects<br>🎂 age-calculator-project (Python)
-🧮 Calculator-cpp (C++)
-🐍💧🔫 snake-water-gun-python (Python)
-🏦 Banking-system-c (C)
+# 💫 About Me
+
+👋 Hi, I'm Tushar
+
+## 🚀 Tech Interests
+
+💻 Software Engineering
+🧩 Programming & Problem Solving
+🌐 Open Source
+📚 Computer Science Fundamentals
+
+## 🎯 Current Focus
+
+🚀 Strengthening Programming Skills
+🛠️ Building Real-World Projects
+⚡ Exploring Modern Development Practices
+
+## 🛠️ Projects
+
+🎂 **Age Calculator** (Python)
+📅 Calculates age and days remaining until the next birthday.
+
+🧮 **Calculator** (C++)
+➕ Performs basic arithmetic operations with a simple command-line interface.
+
+🐍💧🔫 **Snake Water Gun Game** (Python)
+🎮 Fun game based on the classic Snake-Water-Gun rules.
+
+🏦 **Banking System** (C)
+💰 Simulates account operations, balance management, and basic banking functions.
+
+## 🌱 Currently Learning
+
+🐍 Python
+⚙️ C Programming
+🔧 Git & GitHub
+📚 Data Structures & Algorithms
+
+## 🎯 Goal
+
+🚀 Build useful software projects and continuously improve my programming skills.
 
 
 # 💻 Tech Stack:
