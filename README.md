@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Tushar<br><br>>>> 🚀 Tech Interests<br>💻 Software Engineering  <br>🧩 Programming & Problem Solving  <br>🌐 Open Source  <br>📚 Computer Science Fundamentals  <br><br>>>> 🎯 Current Focus<br>🚀 Strengthening Programming Skills  <br>🛠️ Building Real-World Projects  <br>⚡ Exploring Modern Development Practices  <br><br>>>> 🛠️ Projects<br>🏦 Banking System in C  <br>🧮 Calculator in C++  
+👋 Hi, I'm Tushar<br><br>>>> 🚀 Tech Interests<br>💻 Software Engineering  <br>🧩 Programming & Problem Solving  <br>🌐 Open Source  <br>📚 Computer Science Fundamentals  <br><br>>>> 🎯 Current Focus<br>🚀 Strengthening Programming Skills  <br>🛠️ Building Real-World Projects  <br>⚡ Exploring Modern Development Practices  <br><br>>>> 🛠️ Projects<br>🎂 age-calculator-project (Python)
+🧮 Calculator-cpp (C++)
+🐍💧🔫 snake-water-gun-python (Python)
+🏦 Banking-system-c (C)
 
 
 # 💻 Tech Stack:
