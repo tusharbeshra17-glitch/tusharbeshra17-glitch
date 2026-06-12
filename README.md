@@ -33,6 +33,7 @@
 
 🐍 Python
 ⚙️ C Programming
+💻 C++
 🔧 Git & GitHub
 📚 Data Structures & Algorithms
 
