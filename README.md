@@ -1,234 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=TUSHAR%20KANTA%20BESHRA&fontColor=ffffff&fontSize=48&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000428,50:004e92,100:00c6ff&text=TUSHAR%20KANTA%20BESHRA&fontColor=ffffff&fontSize=42&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Tushar+Kanta+Beshra;Software+Developer;Crafting+Code+with+Purpose;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Welcome+to+My+Digital+Workspace"/>
-
-<img src="https://img.shields.io/github/followers/tusharbeshra17-glitch?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00BFFF"/>
-
-<img src="https://komarev.com/ghpvc/?username=tusharbeshra17-glitch&style=for-the-badge&color=00BFFF"/>
-
-<img src="https://img.shields.io/github/last-commit/tusharbeshra17-glitch/tusharbeshra17-glitch?style=for-the-badge&color=0099ff"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Software+Developer;Crafting+Code+with+Purpose;Learning+•+Building+•+Growing"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 💻 DEVELOPER DASHBOARD
-
-</div>
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         PROFILE INFORMATION                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ NAME        : TUSHAR KANTA BESHRA                                   ║
-║ ROLE        : SOFTWARE DEVELOPER                                    ║
-║ EDUCATION   : BACHELOR OF COMPUTER APPLICATIONS                     ║
-║ STATUS      : 🟢 ONLINE                                             ║
-║ FOCUS       : SOFTWARE DEVELOPMENT                                  ║
-║ VERSION     : 2026.07                                               ║
-║ GOAL        : BUILD PRACTICAL SOFTWARE                              ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+## 👨‍💻 About Me
+- 🎓 Bachelor of Computer Applications  
+- 💻 Software Developer focused on **Python, C, C++**  
+- 🚀 Passionate about building **practical software solutions**  
+- 🌱 Currently learning **Data Structures, Algorithms, and Web Development**  
+- 🤝 Open to collaboration and contributing to **Open Source**  
 
 ---
 
+## 🛠 Tech Stack
 <div align="center">
 
-## 🛠 TECHNOLOGY STACK
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode,linux"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🎯 CURRENT GOALS
-
-- 📘 Master Data Structures & Algorithms
-- ⚙ Improve Object-Oriented Programming
-- 🌐 Learn Modern Web Development
-- 🚀 Build Practical Software
-- 🤝 Contribute to Open Source
-- 📚 Keep Learning Every Day
-
-</td>
-
-<td width="50%">
-
-### 🚀 FEATURED PROJECTS
-
-- 🧠 Python Quiz Game
-- 🏦 Bank Management System
-- 📄 PDF Merger
-- 📰 News API Client
-- 🚆 Train Booking System
-- 💧 Hydration Reminder
-- 📒 Contact Manager
-- 🧮 Scientific Calculator
-
-</td>
-
-</tr>
-
-</table>
+## 📂 Featured Projects
+- 🧠 **Python Quiz Game**  
+- 🚆 **Train Booking System**  
+- 🏦 **Bank Management System**  
+- 📄 **PDF Merger Tool**  
+- 💧 **Hydration Reminder App**  
+- 📒 **Contact Manager**  
+- 📰 **News API Client**  
 
 ---
 
+## 📊 GitHub Analytics
 <div align="center">
-
-## 📊 GITHUB ANALYTICS
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=tusharbeshra17-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbeshra17-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=tusharbeshra17-glitch&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharbeshra17-glitch&theme=github_dark"/>
 
 </div>
 
 ---
 
+## 🌐 Connect With Me
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbeshra17-glitch&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tusharbeshra17-glitch&theme=algolia&column=4&no-frame=true"/>
-
-</div>
-
----
-
-## 💻 TERMINAL
-
-```bash
-$ whoami
-
-Tushar Kanta Beshra
-```
-
-```bash
-$ role
-
-Software Developer
-```
-
-```bash
-$ languages
-
-C
-C++
-Python
-HTML
-CSS
-```
-
-```bash
-$ tools
-
-Git
-GitHub
-VS Code
-Linux
-```
-
-```bash
-$ interests
-
-Software Development
-Problem Solving
-Automation
-Open Source
-Clean Code
-```
-
-```bash
-$ currently_learning
-
-Data Structures
-Algorithms
-Object-Oriented Programming
-Web Development
-Software Engineering
-```
-
-```bash
-$ philosophy
-
-Code with purpose.
-Learn continuously.
-Build practical solutions.
-```
-
----
-
-## 📡 SKILL MATRIX
-
-```text
-Programming         ████████████████████ 95%
-
-Problem Solving     ██████████████████░░ 90%
-
-Python              ██████████████████░░ 90%
-
-C++                 █████████████████░░░ 88%
-
-Git & GitHub        ████████████████░░░░ 82%
-
-HTML & CSS          ██████████████░░░░░░ 75%
-```
-
----
-
-<div align="center">
-
-## 📈 PRODUCTIVITY
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharbeshra17-glitch&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusharbeshra17-glitch&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 CONNECT WITH ME
 
 <a href="https://github.com/tusharbeshra17-glitch">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://linkedin.com/in/tushar-beshra-57743a3a1">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -239,22 +72,12 @@ HTML & CSS          ██████████████░░░░░░
 
 <div align="center">
 
-```text
-═══════════════════════════════════════════════════════════════
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-STATUS        : ONLINE
-
-MISSION       : BUILD • LEARN • IMPROVE
-
-PROFILE       : ALWAYS EVOLVING
-
-LAST UPDATED  : AUTOMATICALLY
-
-═══════════════════════════════════════════════════════════════
-```
-
-> **"Every project is an opportunity to learn. Every commit is progress."**
+![Snake animation](https://github.com/tusharbeshra17-glitch/tusharbeshra17-glitch/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00c6ff"/>
