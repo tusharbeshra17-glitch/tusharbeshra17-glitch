@@ -1,38 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=850&lines=INITIALIZING+PROFILE...;TUSHAR+KANTA+BESHRA;SOFTWARE+DEVELOPER;BUILD.+LEARN.+IMPROVE." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=TUSHAR%20KANTA%20BESHRA&fontColor=ffffff&fontSize=48&animation=twinkling"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEM...;AUTHENTICATING+USER...;WELCOME+COMMANDER;SOFTWARE+DEVELOPER;BUILD.+LEARN.+CREATE.;SYSTEM+STATUS+ONLINE"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
-
-</div>
-
----
-
-<div align="center">
-
-### SYSTEM STATUS
-
-```
-██████████████████████████████████
-
-STATUS        : ONLINE
-
-MODE          : BUILDING
-
-LANGUAGES     : C • C++ • Python
-
-EDITOR        : VS Code
-
-VERSION       : 2026
-
-LOCATION      : GitHub
-
-MISSION       : Learn • Build • Improve
-
-██████████████████████████████████
-```
+<img src="https://img.shields.io/github/followers/tusharbeshra17-glitch?style=for-the-badge&logo=github&color=00bfff"/>
+<img src="https://komarev.com/ghpvc/?username=tusharbeshra17-glitch&style=for-the-badge&color=00bfff"/>
+<img src="https://img.shields.io/github/stars/tusharbeshra17-glitch?style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -40,7 +14,29 @@ MISSION       : Learn • Build • Improve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,vscode"/>
+# ⚡ AI COMMAND CENTER
+
+</div>
+
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│ USER          : TUSHAR KANTA BESHRA                                        │
+│ ROLE          : SOFTWARE DEVELOPER                                         │
+│ STATUS        : 🟢 ONLINE                                                  │
+│ MODE          : DEVELOPMENT                                                │
+│ AI CORE       : ACTIVE                                                     │
+│ VERSION       : v2026.07                                                   │
+│ TARGET        : BUILD HIGH QUALITY SOFTWARE                                │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## ⚙ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,vscode,linux"/>
 
 </div>
 
@@ -52,37 +48,41 @@ MISSION       : Learn • Build • Improve
 
 <td width="50%">
 
-### CURRENT OBJECTIVES
+## 🎯 CURRENT OBJECTIVES
 
-🟢 Master DSA
+🟢 Master Data Structures
 
-🟢 Improve OOP
+🟢 Object-Oriented Programming
 
-🟢 Build Practical Software
+🟢 Software Engineering
 
-🟢 Learn Modern Development
+🟢 Clean Code
 
-🟢 Open Source Contributions
+🟢 Open Source
+
+🟢 Real World Projects
 
 </td>
 
 <td width="50%">
 
-### CURRENT PROJECTS
+## 🚀 ACTIVE PROJECTS
 
-🧠 Quiz Game
+🧠 Python Quiz Game
 
 🏦 Bank Management
 
-📰 News API
-
 📄 PDF Merger
 
-📒 Contact Manager
+📰 News API Client
 
 🚆 Train Booking
 
+📒 Contact Manager
+
 💧 Hydration Reminder
+
+🧮 Scientific Calculator
 
 </td>
 
@@ -94,26 +94,11 @@ MISSION       : Learn • Build • Improve
 
 <div align="center">
 
-## TECHNOLOGY MATRIX
+## 📊 DEVELOPER ANALYTICS
 
-| Skill | Level |
-|-------|-------|
-| C | ██████████ |
-| C++ | █████████ |
-| Python | █████████ |
-| Git | ████████ |
-| HTML | ███████ |
-| CSS | ██████ |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tusharbeshra17-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tusharbeshra17-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbeshra17-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbeshra17-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -129,7 +114,7 @@ MISSION       : Learn • Build • Improve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbeshra17-glitch&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharbeshra17-glitch&theme=github_dark"/>
 
 </div>
 
@@ -137,42 +122,121 @@ MISSION       : Learn • Build • Improve
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tusharbeshra17-glitch&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbeshra17-glitch&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-```text
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tusharbeshra17-glitch&theme=algolia&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+## 🤖 AI TERMINAL
+
+```bash
+$ boot
+
+Loading AI Core...
+
+Loading GitHub Database...
+
+Loading Repository Index...
+
+Loading Developer Profile...
+
+Authentication Successful.
+
+Welcome, Tushar.
+```
+
+```bash
 $ whoami
 
-> Tushar Kanta Beshra
+Tushar Kanta Beshra
+```
 
-$ interests
+```bash
+$ tech_stack
 
-> Software Development
-> Problem Solving
-> Open Source
-> APIs
-> Automation
+C
+C++
+Python
+Git
+GitHub
+HTML
+CSS
+```
 
-$ currently_learning
+```bash
+$ current_focus
 
-> Data Structures
-> OOP
-> Web Development
-> Software Engineering
+• Software Development
 
-$ mission
+• Problem Solving
 
-> Build practical software.
+• APIs
+
+• Automation
+
+• Open Source
+```
+
+```bash
+$ next_target
+
+Master DSA
+
+Advanced Python
+
+Web Development
+
+Build Bigger Projects
+```
+
+---
+
+## 📡 SYSTEM METRICS
+
+```text
+AI CORE
+
+████████████████████ 100%
+
+PROGRAMMING
+
+██████████████████░░ 92%
+
+PROBLEM SOLVING
+
+█████████████████░░░ 88%
+
+LEARNING
+
+███████████████████░ 95%
+
+PROJECTS
+
+██████████████████░░ 90%
 ```
 
 ---
 
 <div align="center">
 
-### CONNECT
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharbeshra17-glitch&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusharbeshra17-glitch&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/tusharbeshra17-glitch">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -188,6 +252,18 @@ $ mission
 
 <div align="center">
 
-> **"Turning ideas into software, one commit at a time."**
+```text
+██████████████████████████████████████████████
+
+STATUS : ONLINE
+
+MISSION : BUILD • LEARN • CREATE
+
+LAST UPDATE : AUTOMATIC
+
+██████████████████████████████████████████████
+```
+
+*"Every commit is a step toward building better software."*
 
 </div>
