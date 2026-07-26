@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00c6ff&text=TUSHAR%20KANTA%20BESHRA&fontColor=ffffff&fontSize=48&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEM...;AUTHENTICATING+USER...;WELCOME+COMMANDER;SOFTWARE+DEVELOPER;BUILD.+LEARN.+CREATE.;SYSTEM+STATUS+ONLINE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Tushar+Kanta+Beshra;Software+Developer;Crafting+Code+with+Purpose;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Welcome+to+My+Digital+Workspace"/>
 
-<img src="https://img.shields.io/github/followers/tusharbeshra17-glitch?style=for-the-badge&logo=github&color=00bfff"/>
-<img src="https://komarev.com/ghpvc/?username=tusharbeshra17-glitch&style=for-the-badge&color=00bfff"/>
-<img src="https://img.shields.io/github/stars/tusharbeshra17-glitch?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/tusharbeshra17-glitch?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00BFFF"/>
+
+<img src="https://komarev.com/ghpvc/?username=tusharbeshra17-glitch&style=for-the-badge&color=00BFFF"/>
+
+<img src="https://img.shields.io/github/last-commit/tusharbeshra17-glitch/tusharbeshra17-glitch?style=for-the-badge&color=0099ff"/>
 
 </div>
 
@@ -14,29 +16,31 @@
 
 <div align="center">
 
-# ⚡ AI COMMAND CENTER
+# 💻 DEVELOPER DASHBOARD
 
 </div>
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│ USER          : TUSHAR KANTA BESHRA                                        │
-│ ROLE          : SOFTWARE DEVELOPER                                         │
-│ STATUS        : 🟢 ONLINE                                                  │
-│ MODE          : DEVELOPMENT                                                │
-│ AI CORE       : ACTIVE                                                     │
-│ VERSION       : v2026.07                                                   │
-│ TARGET        : BUILD HIGH QUALITY SOFTWARE                                │
-└────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                         PROFILE INFORMATION                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ NAME        : TUSHAR KANTA BESHRA                                   ║
+║ ROLE        : SOFTWARE DEVELOPER                                    ║
+║ EDUCATION   : BACHELOR OF COMPUTER APPLICATIONS                     ║
+║ STATUS      : 🟢 ONLINE                                             ║
+║ FOCUS       : SOFTWARE DEVELOPMENT                                  ║
+║ VERSION     : 2026.07                                               ║
+║ GOAL        : BUILD PRACTICAL SOFTWARE                              ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-## ⚙ TECH STACK
+## 🛠 TECHNOLOGY STACK
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode,linux"/>
 
 </div>
 
@@ -48,41 +52,29 @@
 
 <td width="50%">
 
-## 🎯 CURRENT OBJECTIVES
+### 🎯 CURRENT GOALS
 
-🟢 Master Data Structures
-
-🟢 Object-Oriented Programming
-
-🟢 Software Engineering
-
-🟢 Clean Code
-
-🟢 Open Source
-
-🟢 Real World Projects
+- 📘 Master Data Structures & Algorithms
+- ⚙ Improve Object-Oriented Programming
+- 🌐 Learn Modern Web Development
+- 🚀 Build Practical Software
+- 🤝 Contribute to Open Source
+- 📚 Keep Learning Every Day
 
 </td>
 
 <td width="50%">
 
-## 🚀 ACTIVE PROJECTS
+### 🚀 FEATURED PROJECTS
 
-🧠 Python Quiz Game
-
-🏦 Bank Management
-
-📄 PDF Merger
-
-📰 News API Client
-
-🚆 Train Booking
-
-📒 Contact Manager
-
-💧 Hydration Reminder
-
-🧮 Scientific Calculator
+- 🧠 Python Quiz Game
+- 🏦 Bank Management System
+- 📄 PDF Merger
+- 📰 News API Client
+- 🚆 Train Booking System
+- 💧 Hydration Reminder
+- 📒 Contact Manager
+- 🧮 Scientific Calculator
 
 </td>
 
@@ -94,7 +86,7 @@
 
 <div align="center">
 
-## 📊 DEVELOPER ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=tusharbeshra17-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -136,23 +128,7 @@
 
 ---
 
-## 🤖 AI TERMINAL
-
-```bash
-$ boot
-
-Loading AI Core...
-
-Loading GitHub Database...
-
-Loading Repository Index...
-
-Loading Developer Profile...
-
-Authentication Successful.
-
-Welcome, Tushar.
-```
+## 💻 TERMINAL
 
 ```bash
 $ whoami
@@ -161,72 +137,81 @@ Tushar Kanta Beshra
 ```
 
 ```bash
-$ tech_stack
+$ role
+
+Software Developer
+```
+
+```bash
+$ languages
 
 C
 C++
 Python
-Git
-GitHub
 HTML
 CSS
 ```
 
 ```bash
-$ current_focus
+$ tools
 
-• Software Development
-
-• Problem Solving
-
-• APIs
-
-• Automation
-
-• Open Source
+Git
+GitHub
+VS Code
+Linux
 ```
 
 ```bash
-$ next_target
+$ interests
 
-Master DSA
+Software Development
+Problem Solving
+Automation
+Open Source
+Clean Code
+```
 
-Advanced Python
+```bash
+$ currently_learning
 
+Data Structures
+Algorithms
+Object-Oriented Programming
 Web Development
+Software Engineering
+```
 
-Build Bigger Projects
+```bash
+$ philosophy
+
+Code with purpose.
+Learn continuously.
+Build practical solutions.
 ```
 
 ---
 
-## 📡 SYSTEM METRICS
+## 📡 SKILL MATRIX
 
 ```text
-AI CORE
+Programming         ████████████████████ 95%
 
-████████████████████ 100%
+Problem Solving     ██████████████████░░ 90%
 
-PROGRAMMING
+Python              ██████████████████░░ 90%
 
-██████████████████░░ 92%
+C++                 █████████████████░░░ 88%
 
-PROBLEM SOLVING
+Git & GitHub        ████████████████░░░░ 82%
 
-█████████████████░░░ 88%
-
-LEARNING
-
-███████████████████░ 95%
-
-PROJECTS
-
-██████████████████░░ 90%
+HTML & CSS          ██████████████░░░░░░ 75%
 ```
 
 ---
 
 <div align="center">
+
+## 📈 PRODUCTIVITY
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharbeshra17-glitch&theme=github_dark"/>
 
@@ -237,6 +222,8 @@ PROJECTS
 ---
 
 <div align="center">
+
+## 🌐 CONNECT WITH ME
 
 <a href="https://github.com/tusharbeshra17-glitch">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -253,17 +240,21 @@ PROJECTS
 <div align="center">
 
 ```text
-██████████████████████████████████████████████
+═══════════════════════════════════════════════════════════════
 
-STATUS : ONLINE
+STATUS        : ONLINE
 
-MISSION : BUILD • LEARN • CREATE
+MISSION       : BUILD • LEARN • IMPROVE
 
-LAST UPDATE : AUTOMATIC
+PROFILE       : ALWAYS EVOLVING
 
-██████████████████████████████████████████████
+LAST UPDATED  : AUTOMATICALLY
+
+═══════════════════════════════════════════════════════════════
 ```
 
-*"Every commit is a step toward building better software."*
+> **"Every project is an opportunity to learn. Every commit is progress."**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00c6ff"/>
