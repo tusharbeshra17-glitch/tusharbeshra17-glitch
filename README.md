@@ -38,7 +38,7 @@ Goal        : Build useful software and continuously improve.
 </div>
 
 | Project | Description |
-|----------|-------------|
+| --- | --- |
 | 🧠 Python Quiz Game | Interactive quiz application |
 | 💧 Hydration Reminder | Desktop reminder utility |
 | 📰 News API Client | Fetches live news using APIs |
@@ -49,7 +49,7 @@ Goal        : Build useful software and continuously improve.
 | 🧮 Scientific Calculator | Advanced calculator in C++ |
 | 📒 Contact Manager | File-based contact manager |
 | 🐍 Snake Water Gun Game | Python mini game |
-
+| 🔗📱 QR Code Generator | Futuristic AI‑styled tool to create scannable QR codes from URLs or text |
 ---
 
 <div align="center">
